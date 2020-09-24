@@ -29,3 +29,9 @@ public class insertion {
     Average case:   O(N^2)
     Worst case:     O(N^2)
 */
+/*
+    Internal sort:  YES
+    External sort:  NO
+    Stable sort:    YES
+    In-place sort:  YES
+*/
