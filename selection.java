@@ -25,3 +25,14 @@ public class selection {
         }
     }
 }
+/*
+    Best case:      O(N^2)
+    Average case:   O(N^2)
+    Worst case:     O(N^2)
+*/
+/*
+    Internal sort:  YES
+    External sort:  NO
+    Stable sort:    NO
+    In-place sort:  YES
+*/
