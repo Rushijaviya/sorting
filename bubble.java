@@ -29,3 +29,9 @@ public class bubble {
     Average case: O(N^2)
     Worst case:   O(N^2)
 */
+/*
+    Internal sort: YES
+    External sort: NO
+    stable sort:   YES
+    In place:      YES 
+*/
